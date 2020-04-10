@@ -1,0 +1,2 @@
+curl -v -X PUT -T httpname localhost:8080
+curl -v -X GET localhost:8080/httpname
